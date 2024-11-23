@@ -24,3 +24,4 @@ We indend to provide social Incentives as well as economic models to further thi
 
 # Inspire:
 - [Subscriptions Are Ruining Our Lives. Here's Why They're Everywhere Now.](https://youtu.be/zptP3GiaulE)
+- https://en.wikipedia.org/wiki/Grooveshark
