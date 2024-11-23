@@ -20,7 +20,7 @@ This "Re-packaging" & Sharing Subscriptions model is intended to Maximize the am
 
 We can hope for a Freer and more just world, in the realm of Copyrights and consumer rights & accessibility of media!
 
-We indend to provide social Incentives as well as economics to further this goal.
+We indend to provide social Incentives as well as economic models to further this goal.
 
 # Inspire:
 - [Subscriptions Are Ruining Our Lives. Here's Why They're Everywhere Now.](https://youtu.be/zptP3GiaulE)
